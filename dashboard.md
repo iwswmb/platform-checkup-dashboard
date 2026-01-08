@@ -13,5 +13,9 @@
 
 *Данные представлены за период с конца марта 2021 года по конец мая 2022 года. Поэтому необходимо фильтровать данные в этом промежутке.*
 
-### Интерпретация данных: [↗️ Посмотреть интерпретацию](https://github.com/iwswmb/platform-checkup-dashboard/blob/master/README.md#-интерпретация-данных)
-### Выводы: [↗️ Посмотреть выводы](https://github.com/iwswmb/platform-checkup-dashboard/blob/master/README.md#-выводы)
+### Интерпретация данных:
+[↗️ Посмотреть интерпретацию](https://github.com/iwswmb/platform-checkup-dashboard/blob/master/README.md#-интерпретация-данных)
+*Нажмите правой кнопкой мыши → "Открыть ссылку в новой вкладке"*
+### Выводы:
+[↗️ Посмотреть выводы](https://github.com/iwswmb/platform-checkup-dashboard/blob/master/README.md#-выводы)
+*Нажмите правой кнопкой мыши → "Открыть ссылку в новой вкладке"*
